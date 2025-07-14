@@ -1,0 +1,3 @@
+[submodule "S"]
+	path = S
+	url = https://github.com/ycsxxp/test_submodule.git
